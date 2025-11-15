@@ -20,3 +20,8 @@ print("Scores:", scores)
 print("Sum of Scores:", total)
 print("Average of Scores:", average)
 
+min=min(scores)
+max=max(scores)
+print("Minimum score:",min)
+print("Maximum score:",max)
+
